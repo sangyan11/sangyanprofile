@@ -1,0 +1,204 @@
+.center-heading {
+    text-align: center;
+    color: #ffffff; 
+    font-size: 36px;
+}
+h2 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    margin-top: 10px;
+}
+h3 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
+p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+}
+body {
+    background-color: hsl( 219 , 48%, 8%);
+    
+}
+.description {
+    text-align: center;
+    color: white; 
+    
+ 
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+}
+
+.profile-pic {
+    border-radius: 50%; 
+    width: 200px; 
+    height: 200px; 
+}
+
+.container {
+    text-align: center;
+    
+  }
+  
+  .projects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-top: 20px;
+  }
+  
+  .project {
+    width: 200px;
+    text-align: center;
+  }
+  
+  .project img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+  }
+  
+  .project h2 {
+    margin-top: 10px;
+  }
+
+  a {
+    color: white;
+  }
+
+
+#skills {
+  text-align: center;
+  margin-top: 8px; 
+}
+
+.skills-box {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 12px;
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center; 
+
+}
+
+
+.skills-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skills-box ul li {
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.design {
+  color: white;
+  font-size: 20px;
+}
+
+#contact-details {
+  text-align: center;
+  margin-top: 15px; 
+}
+
+
+
+.contact-info {
+  text-align: left;
+}
+
+.contact-info p {
+  margin-bottom: 10px;
+}
+
+.contact_me{
+  font-size: 20px ;
+}
+
+footer {
+  background-color: #CCCCFF;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 25px;
+}
+
+.footer-content p {
+  margin-bottom: 12px;
+  font-size: 30px;
+  margin-top: 15px;
+}
+
+.btn-download {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  background-color: #007bff;
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin-bottom: 15px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-download:hover {
+  background-color: #0056b3;
+}
+
+.social-links a {
+  text-decoration: none;
+  padding: 8px 8px;
+  border-radius: 50%; 
+  margin: 0 5px;
+
+}
+
+.social-links a:hover {
+  background-color: #777;
+}
+
+.name {
+  color: black;
+  font-size: 30px;
+}
+#contacts {
+  text-align: center;
+  margin-top: 8px; 
+}
+
+.contact-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.contact-box {
+  border: 1px solid #ccc;
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+  
+
+  
